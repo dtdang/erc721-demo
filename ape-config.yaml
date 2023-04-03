@@ -1,0 +1,4 @@
+name: erc-demo
+plugins:
+  - name: vyper
+
